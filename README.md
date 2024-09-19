@@ -83,7 +83,7 @@ Projenin kendi bilgisayarınızda çalıştırılabilmesi için aşağıdaki ad�
 Bu kütüphaneleri kurmak için şu komutu çalıştırabilirsiniz:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### README'deki Detaylar ve Nedenleri:
 1. **Genel Bakış**: Projenin amacını ve neyi çözmeye çalıştığınızı açıklar. Bu, kullanıcıya projenin büyük resmini gösterir.
