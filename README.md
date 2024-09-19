@@ -83,3 +83,16 @@ Projenin kendi bilgisayarınızda çalıştırılabilmesi için aşağıdaki ad�
 Bu kütüphaneleri kurmak için şu komutu çalıştırabilirsiniz:
 ```bash
 pip install -r requirements.txt
+
+
+### README'deki Detaylar ve Nedenleri:
+1. **Genel Bakış**: Projenin amacını ve neyi çözmeye çalıştığınızı açıklar. Bu, kullanıcıya projenin büyük resmini gösterir.
+2. **Veri Seti Hakkında**: Veri seti ve özellikleri hakkında bilgi verilir. Veri setinin ne olduğunu ve neden bu veri setini seçtiğinizi açıklar.
+3. **Keşifsel Veri Analizi**: Veriyi anlamak ve analiz etmek için yapılan işlemler açıklanır. Bu, hangi özelliklerin önemli olduğunu ve veri setindeki olası problemleri anlamaya yönelik bir adımdır.
+4. **Veri Ön İşleme**: Veri setindeki eksik veriler ve normalizasyon gibi işlemlerin neden yapıldığını açıklar. Bu, modelin daha doğru çalışabilmesi için gerekli bir adımdır.
+5. **Model Seçimi ve Eğitim**: Farklı modelleri neden denediğinizi ve hangi kriterlere göre model seçimi yaptığınızı anlatır.
+6. **Model Değerlendirme**: Modelin doğruluğunu ölçmek ve klinik olarak anlamlı sonuçlar almak için yapılan metrikler hakkında bilgi verir.
+7. **Kurulum ve Kullanım**: Projenin nasıl çalıştırılacağını adım adım açıklar.
+
+Bu şablonu istediğiniz gibi düzenleyebilir veya notebook içeriğine daha özel eklemeler yapabilirsiniz.
+
